@@ -61,28 +61,6 @@
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheerif&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Elsheerif&theme=tokyonight&no-frame=true&row=1&column=3" />
-
-</div>
-
----
 
 # 📌 Featured Projects
 
@@ -158,17 +136,6 @@ Python • Scikit-learn • XGBoost
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elsheerif&theme=tokyo-night&hide_border=true)](https://github.com/Elsheerif)
-
-</div>
-
----
 
 # 💼 Experience
 
