@@ -1,156 +1,228 @@
 <h1 align="center">Hi 👋, I'm Alsherif Ashraf</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/Elsheerif">
-    <img src="https://img.shields.io/github/followers/Elsheerif?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/alsherif-ashraf-ismail/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Elsheerif&style=for-the-badge" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Software+Engineering+Student;Backend+%26+AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 Software Engineering student at **Cairo University – Faculty of Computers and Artificial Intelligence**
-- 💻 Passionate about **Full-Stack Development**, **Backend Systems**, and **AI Applications**
-- ⚡ Building scalable applications using the **MERN Stack**
-- 🤖 Interested in **Agentic AI Systems**, **Machine Learning**, and real-world problem solving
-- 🌱 Currently improving my skills in **System Design**, **Backend Engineering**, and **Cloud Technologies**
-- 📫 Reach me at: **alsherif.ashraf.ismail@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=Elsheerif&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
----
+<a href="https://github.com/Elsheerif">
+<img src="https://img.shields.io/github/followers/Elsheerif?logo=github&style=for-the-badge" />
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/alsherif-ashraf-ismail/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,figma,vscode" />
-</p>
-
-### AI / Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- XGBoost
-- Random Forest
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 About Me
 
-### 🛒 Pixel — E-Commerce Platform
-Full-stack e-commerce platform built with **Next.js**, **Express**, and **MongoDB**.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-#### Features:
-- Product browsing & management
-- Shopping cart & order processing
+- 🎓 Software Engineering student at **Cairo University**
+- 💻 MERN Stack Developer passionate about scalable systems
+- 🤖 Interested in **AI Systems**, **Machine Learning**, and **Backend Engineering**
+- ⚡ Building full-stack applications with modern technologies
+- 🌱 Currently learning:
+  - System Design
+  - Advanced Backend Development
+  - Cloud & DevOps
+- 🏆 Best Delegate at COMET Entrepreneurship Council
+- 📫 Reach me at:
+  **alsherif.ashraf.ismail@gmail.com**
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql" />
+
+## Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+
+## Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+## Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,figma,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elsheerif&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheerif&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheerif&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Elsheerif&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🛒 Pixel — E-Commerce Platform
+
+### Tech Stack
+Next.js • Express • MongoDB
+
+### Features
+- Shopping cart system
 - JWT Authentication
+- Order management
 - RESTful APIs
-- Server-side rendering for better SEO & performance
+- SSR Optimization
 
----
+</td>
 
-### 💬 Echo — Social Media Platform
-Real-time social media application using **React.js**, **Node.js**, **MongoDB**, and **Socket.io**.
+<td width="50%">
 
-#### Features:
-- Real-time messaging
+## 💬 Echo — Social Media Platform
+
+### Tech Stack
+React • Node.js • Socket.io
+
+### Features
+- Real-time chat
 - Friend system
-- Live notifications
-- Authentication & protected routes
+- Notifications
+- Protected routes
+- MongoDB persistence
 
----
+</td>
+</tr>
 
-### 🤖 AI Gomoku Game
-AI-powered Five-in-a-Row game using **Minimax Algorithm** with **Alpha-Beta Pruning**.
+<tr>
+<td width="50%">
 
-#### Features:
+## 🤖 AI Gomoku Game
+
+### Tech Stack
+Python • Tkinter • Minimax
+
+### Features
+- Alpha-Beta pruning
 - Human vs AI gameplay
-- Optimized search tree
-- Interactive Tkinter GUI
+- Optimized AI decisions
+- Interactive GUI
+
+</td>
+
+<td width="50%">
+
+## ✈️ Flight Price Prediction
+
+### Tech Stack
+Python • Scikit-learn • XGBoost
+
+### Highlights
+- 300k+ records
+- Feature engineering
+- 92% R² Accuracy
+- Regression pipeline
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### ✈️ Flight Price Prediction Model
-Machine learning regression model trained on **300,000+ flight records**.
+# 📈 Contribution Graph
 
-#### Highlights:
-- Feature engineering pipeline
-- XGBoost & Random Forest
-- Achieved **92% R² accuracy**
+<div align="center">
 
----
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elsheerif&theme=tokyo-night&hide_border=true)](https://github.com/Elsheerif)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elsheerif&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheerif&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheerif&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🏆 Experience & Training
+# 💼 Experience
 
-### Full-Stack Web Development Trainee — Route Academy
+## 💻 Route Academy — Full-Stack Web Development Trainee
 - Built multiple MERN stack applications
-- Developed RESTful APIs and authentication systems
-- Worked with React, Next.js, Express, and MongoDB
-
-### Agentic AI Training Participant — Orange Digital Center
-- Built multi-agent AI systems using CrewAI/LangGraph
-- Developed AI research and document analysis assistants
-
-### Machine Learning Trainee — NTI
-- Applied ML algorithms on large datasets
-- Built predictive regression systems with high accuracy
+- Designed RESTful APIs
+- Implemented authentication & authorization
+- Worked with React, Next.js, and MongoDB
 
 ---
 
-## 🏅 Achievements
-
-- 🥇 Awarded **Best Delegate** at COMET Entrepreneurship Council
-- 🧠 Strong interest in scalable systems and AI-driven applications
-- 📚 Continuously learning software engineering best practices
+## 🤖 Orange Digital Center — Agentic AI Training
+- Developed multi-agent AI systems
+- Worked with CrewAI & LangGraph
+- Built AI research assistants with source citations
 
 ---
 
-## 🌍 Connect With Me
+## 📊 NTI — Machine Learning Trainee
+- Built ML predictive models
+- Applied Random Forest & XGBoost
+- Worked with large datasets and feature engineering
 
-<p align="left">
-<a href="https://www.linkedin.com/in/alsherif-ashraf-ismail/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="mailto:alsherif.ashraf.ismail@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" width="60" />
 </a>
-</p>
+
+<a href="https://www.linkedin.com/in/alsherif-ashraf-ismail/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60" />
+</a>
+
+<a href="https://github.com/Elsheerif">
+<img src="https://skillicons.dev/icons?i=github" width="60" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Building software that solves real-world problems."</i>
-</p>
+<div align="center">
+
+### ⚡ “Building software that solves real-world problems.”
+
+</div>
