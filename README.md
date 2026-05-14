@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alsherif Ashraf</h1>
+<h1 align="center">Hi 👋, I'm Alsherif</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <div align="center">
@@ -30,7 +30,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Software Engineering student at **Cairo University**
-- 💻 MERN Stack Developer passionate about scalable systems
+- 💻 Full-Stack Developer passionate about scalable systems
 - 🤖 Interested in **AI Systems**, **Machine Learning**, and **Backend Engineering**
 - ⚡ Building full-stack applications with modern technologies
 - 🌱 Currently learning:
